@@ -1,4 +1,10 @@
 .cabecalho{
     background-color: black;
     color: blueviolet;
+    display: flex;
+    padding: 24px 0;
+}
+
+.section1{
+    
 }
